@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Emanuel, but please call me Noah
 
 # 💫 About Me:
 🔭 I'm currently working on<br><br>    A Learning Management System (LMS)<br><br>    Side projects in MERN stack development<br><br>    Enhancing my SQL & database management skills<br><br>👯 I'm looking to collaborate on<br><br>    Open-source web development projects<br><br>    React.js and full-stack applications<br><br>    E-commerce & Shopify store development<br><br>🤝 I'm looking for help with<br><br>    Advanced database optimization (MySQL, MongoDB)<br><br>    Performance improvements in React apps<br><br>🌱 I'm currently learning<br><br>    Advanced backend development (Node.js, Express)<br><br>    Cloud deployment (AWS, Vercel, Firebase)<br><br>💬 Ask me about<br><br>    Web development (HTML, CSS, React, MERN stack)<br><br>    Building online stores & Shopify development<br><br>    Tech career advice & freelance work<br><br>⚡ Fun fact<br><br>    I won the Limpopo Varsity Hackathon with an AI-powered system for visually impaired navigation! 🏆
