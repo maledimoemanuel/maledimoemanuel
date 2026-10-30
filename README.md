@@ -2,29 +2,29 @@
 
 **Full-Stack Software Engineer | C# • .NET • SQL Server • React • Flutter | APIs, Payments, Real-Time, Maps**
 
-> I build software that survives contact with the real world — real teams, real users, real problems.
+> I build software that survives contact with the real world: real teams, real users, real problems.
 
 ## 💫 About Me
 
-I'm a software engineer with a background in **Mathematics and Computer Science**, working full-time building production systems that solve operational problems. I've shipped logistics and field-service platforms, communication tools businesses run on daily, marketplaces with payments and real-time tracking, and consumer apps on both app stores — for startups, non-profits, and established businesses.
+I'm a Software Engineer with a background in **Mathematics and Computer Science**, working full-time building production systems that solve operational problems. I've shipped logistics and field-service platforms, communication tools businesses run on daily, marketplaces with payments and real-time tracking, and consumer apps on both app stores, for startups, non-profits, and established businesses.
 
 Every project is different, but my approach is the same: **understand the problem properly, then build software that ships and holds up in production.**
 
 ### How I work
-- 🧩 **Problem-first** — I start with the business problem, not the tech stack.
-- 🚢 **Full-stack delivery** — APIs, data models, and frontends designed as one system, shipped together.
-- 👥 **User-driven** — if people can't use it, it doesn't matter how clever the code is.
+- 🧩 **Problem-first**: I start with the business problem, not the tech stack.
+- 🚢 **Full-stack delivery**: APIs, data models, and frontends designed as one system, shipped together.
+- 👥 **User-driven**: if people can't use it, it doesn't matter how clever the code is.
 
 ### What I work on daily
 - Designing and building **RESTful APIs** with ASP.NET / C#
 - Writing and optimizing **SQL Server** queries, stored procedures, and validation logic
-- Designing **multi-tenant systems** — data isolation, security, and scalability
+- Designing **multi-tenant systems** with data isolation, security, and scalability
 - **Real-time features** with SignalR
 - **Payment integrations** (Stripe, PayPal)
 - **Maps & spatial data** (Google Maps APIs, route optimization with Google OR-Tools)
 - Deploying and maintaining applications on **Windows Server (IIS)** and **Azure**
 
-I care about correctness, performance, and scalability — not just making things "work." Currently growing toward technical ownership and leadership, with a strong interest in **system design and scalable architectures**.
+I care about correctness, performance, and scalability, not just making things "work". Currently growing toward technical ownership and leadership, with a strong interest in **system design and scalable architectures**.
 
 When I'm not at a keyboard, you'll find me out in nature. 🌿
 
